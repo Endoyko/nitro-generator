@@ -1,4 +1,4 @@
-## nitro-generator
+## Nitro generator
 Discord Nitro Checker and Generator.
 
 ## Set up
@@ -7,3 +7,8 @@ Discord Nitro Checker and Generator.
 3. Put the code in there
 4. Run it
 
+## What is this?
+This is a python program that you run and you can find discord nitro's with it!
+
+## How it work's?
+This script generates random discord nitros and checks if they exist. If the nitro exists, it prints the nitro to the console.
